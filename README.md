@@ -1,12 +1,3 @@
-<!--
-
- * @Author: zhangL
- * @Date: 2023-03-28 13:17:42
- * @LastEditors: zhangL
- * @LastEditTime: 2023-03-28 14:56:59
- * @FilePath: /Hope/documents/hope_documents/tuoxiao.md
-   -->
-
 # 脱硝
 
 ## 定义
